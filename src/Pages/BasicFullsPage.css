@@ -1,0 +1,38 @@
+.Menu {
+  position: fixed;
+  top: 37.5px;
+  z-index: 100;
+
+  width: 100vw;
+  opacity: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Blacktech {
+  position: absolute;
+  width: 109px;
+  height: 27px;
+  left: 61px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  letter-spacing: 0.2px;
+}
+
+.Navbarlinks {
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: center;
+  margin-left: 40px;
+}
